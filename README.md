@@ -44,7 +44,7 @@ To view the project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/anirudha-8/Parallax-Website.git
+    git clone https://github.com/anirudha-8/Parallax_WebPage.git
     ```
 
 2. Open `index.html` in your web browser.
