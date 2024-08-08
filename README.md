@@ -1,12 +1,16 @@
 <div align="center">
     <h1>Parallax Website</h1>
 </div>
+<video width="640" height="360" controls>
+    <source src="./src/videos/parallax-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
 This project is a responsive parallax website created using only HTML and CSS.
 
-## Link -> **[View Project](#)** (Replace with actual link)
+## Link -> **[View Project](https://anirudha-8.github.io/Parallax_WebPage/)**
 
 ## Project Overview
 
